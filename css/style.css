@@ -1,0 +1,29 @@
+
+/*.customized {
+	padding-bottom: 100px;
+	border: 1px solid #000;
+	border-radius: 15px;
+	padding: 25px 15px 100px 15px;
+	margin-bottom: 20px;
+	background-color: #E3F2FD;
+}*/
+
+.customized > h3 {
+	font-size: 30px;
+	font-weight: bold;
+	color: #424242;
+	text-transform: uppercase;
+}
+
+.customized > p, .customized > ul {
+	list-style: circle;
+	color: #000;
+	font-size: 18px;
+	padding: 0px;
+	margin: 0px;
+	line-height: 30px;
+}
+
+.black{
+	color: #000;
+}
