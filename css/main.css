@@ -304,20 +304,13 @@ ul li {
 -------------------------------------------------------------------------------*/
 
 .banner {
-	background-image: url(../images/tre.png);
+	background-image: url(../images/front.png);
 	background-position: center top;
 	background-repeat: no-repeat;
-	/*-moz-background-size: cover;
+	-moz-background-size: cover;
 	-o-background-size: cover;
-	-webkit-background-size: cover;*/
-	/*background-size: cover;*/
-	/*min-height: 750px;*/
-	/*height: 550px;*/
-	/*width: 100%;*/
-	/*height: 100%;*/
-	background-size: 100% 150%;
-	/*width: contain;*/
-	/*height: 60%;*/
+	-webkit-background-size: cover;
+	min-height: 375px;
 }
 .banner-text {
 	padding-top: 22%;
@@ -698,5 +691,3 @@ padding:15px 30px 15px 30px;
 }
 
 /**************************  Opportunities ************/
-
-#inc {}
