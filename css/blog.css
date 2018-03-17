@@ -131,7 +131,31 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 0;
 }
 
-img.blogimg{
-    height: 210px;
-    width: 180px;
+/*********************** Custom ***************************/
+
+.esptohome {
+  font-family: Arial;
+  color: #000;
+  font-size: 22px;
+  letter-spacing: 0px;
+  text-transform:uppercase;
+  font-weight: 700;
+  margin-top: 15px;
+}
+
+a.esptohome {
+  text-decoration: none;
+}
+
+a.esptohome:hover {
+  color: #000;
+}
+
+.espheads {
+  text-transform: uppercase;
+  text-align: center;
+  font-family: Arial;
+  font-weight: 700;
+  background-color: #e6e6e6;
+  padding: 10px;
 }
