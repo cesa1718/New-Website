@@ -691,3 +691,11 @@ padding:15px 30px 15px 30px;
 }
 
 /**************************  Opportunities ************/
+
+.marqueestyle {
+	color: #fff;
+	font-size: 40px;
+	font-weight: 700;
+	background-color: #42A5F5;
+	padding: 25px 0 25px 100px;
+}
